@@ -1,0 +1,19 @@
+{
+  "name": "invoices_server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Uday Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "hogan-express": "^0.5.2",
+    "mongoose": "^5.4.0",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {},
+  "description": ""
+}
